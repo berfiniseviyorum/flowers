@@ -1,6 +1,6 @@
 let currentImage = 1;
 const totalImages = 41;
-const intervalTime = 1500;
+const intervalTime = 2000;
 
 function showNextImage() {
   const imgElement = document.getElementById("slideshow");
